@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/awaneesh_portfolio/static/css/main.4148485b.css",
+    "main.js": "/awaneesh_portfolio/static/js/main.f3e40c17.js",
+    "static/js/453.00a12829.chunk.js": "/awaneesh_portfolio/static/js/453.00a12829.chunk.js",
+    "index.html": "/awaneesh_portfolio/index.html",
+    "main.4148485b.css.map": "/awaneesh_portfolio/static/css/main.4148485b.css.map",
+    "main.f3e40c17.js.map": "/awaneesh_portfolio/static/js/main.f3e40c17.js.map",
+    "453.00a12829.chunk.js.map": "/awaneesh_portfolio/static/js/453.00a12829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4148485b.css",
+    "static/js/main.f3e40c17.js"
+  ]
+}
