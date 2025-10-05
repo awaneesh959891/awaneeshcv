@@ -1,2 +1,2 @@
-# awaneeshcv
+# awaneesh_portfolio
 That is a React Personal Portfolio (CV) Project.
